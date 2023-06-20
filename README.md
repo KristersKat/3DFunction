@@ -1,2 +1,2 @@
 # NameDay
-Visualizes a funcion in 3D space
+Visualizes a function in 3D space
